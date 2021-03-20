@@ -1,0 +1,40 @@
+body{
+	background-color: indigo;
+}
+
+
+.Container{
+	font-family:Helvetica;
+	text-align: center;
+	margin-top: 150px;
+}
+
+table{
+	margin: auto;
+}
+input{
+	border-radius: 9px;
+	font-size: 1.7vw;
+
+}
+button{
+	font-size: 4vh;
+	border-radius: 9px;
+	border: 10px solid rgb(61, 61, 107);
+	width:5vw;
+	height: 10vh;
+}
+
+button:hover{
+	
+	background: burlywood
+	
+}
+.calculator{
+	border-radius: 19px;
+	border: 20px solid greenyellow;
+	background-color:cyan;
+	display: inline-block;
+}
+
+
